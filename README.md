@@ -16,7 +16,7 @@ If you are developing a production application, we recommend using TypeScript wi
 RedBasket is a fully responsive eCommerce website for selling fresh and organic grocery products online. Developed using React and Vite, it includes dynamic product listings, cart management with localStorage, smooth navigation, and a multi-step checkout experience.
 >>>>>>> a88cce7e81a0c3bc7488c488ed3b837f2fb3c355
 
-[🛠 Installation and Setup Instructions]
+# 🛠 Installation and Setup Instructions
 Installation: npm install
 
 In the project directory, you can run: npm start
