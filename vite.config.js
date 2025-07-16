@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/', // IMPORTANT for Vite routing
+  base: '/RedBasket---Organic-Grocery-Store-React-Vite-/', // IMPORTANT for Vite routing
 });
