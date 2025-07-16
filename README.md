@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# RedBasket---Organic-Grocery-Store-React-Vite-
+RedBasket is a fully responsive eCommerce website for selling fresh and organic grocery products online. Developed using React and Vite, it includes dynamic product listings, cart management with localStorage, smooth navigation, and a multi-step checkout experience.
+>>>>>>> a88cce7e81a0c3bc7488c488ed3b837f2fb3c355
