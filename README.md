@@ -14,7 +14,20 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # RedBasket---Organic-Grocery-Store-React-Vite-
 RedBasket is a fully responsive eCommerce website for selling fresh and organic grocery products online. Developed using React and Vite, it includes dynamic product listings, cart management with localStorage, smooth navigation, and a multi-step checkout experience.
->>>>>>> a88cce7e81a0c3bc7488c488ed3b837f2fb3c355
+
+# 🎯 Purpose:
+To promote healthy living by offering a convenient and accessible platform for purchasing organic groceries online.
+
+# 🧩 Technologies & Languages Used:
+HTML5 – Structure and layout
+
+CSS3 – Styling and responsiveness
+
+JavaScript (ES6) – Interactivity and logic
+
+JSX – React's syntax extension for rendering UI
+
+React.js – Building dynamic and component-based user interfaces
 
 # 🛠 Installation and Setup Instructions
 Installation: Run commands
