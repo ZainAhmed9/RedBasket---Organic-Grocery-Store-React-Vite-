@@ -1,0 +1,17 @@
+.menu-link.active {
+  color: red !important;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.card-title {
+  color: #dc3545;
+}
+
+.hero {
+  background-color: #f8f9fa;
+}
+
+footer {
+  background-color: #dc3545 !important;
+}
