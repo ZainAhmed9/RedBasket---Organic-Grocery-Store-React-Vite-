@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-#DeployLink: https://lnkd.in/en_RPt5D
+# DeployLink: https://lnkd.in/en_RPt5D
 
 # RedBasket---Organic-Grocery-Store-React-Vite-
 RedBasket is a fully responsive eCommerce website for selling fresh and organic grocery products online. Developed using React and Vite, it includes dynamic product listings, cart management with localStorage, smooth navigation, and a multi-step checkout experience.
